@@ -1,1 +1,2 @@
 readme dosyasi
+development degisiklik
